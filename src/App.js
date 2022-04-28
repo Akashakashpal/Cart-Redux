@@ -1,3 +1,5 @@
+// Section  19  video 260
+// inside component code
 // import { Fragment, useEffect } from "react";
 // import { useDispatch, useSelector } from "react-redux";
 // import Cart from "./components/Cart/Cart";
@@ -78,6 +80,7 @@
 
 // export default App;
 
+// action creator
 import { Fragment, useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import Cart from "./components/Cart/Cart";
